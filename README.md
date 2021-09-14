@@ -7,7 +7,7 @@ I was tasked with examining PyBer Rideshare data for January through April of 20
 ### PyBer Ridership Summary Snapshot
 In examining the PyBer Ridership data, I was able to get a really good sense of where PyBer business seems to come from and where they can expand their market to generate even more fares. Let me breakdown the details by city type. 
 
-INSERT SUMMARY IMAGE
+![PyberSummary.png](https://github.com/melaniekelsey/PyBer_Analysis/blob/main/analysis/PyberSummary.png)
 
 #### Urban PyBer Rides
 In looking at this overall summary, it's easy to see that majority of the PyBer fares and rides are coming from the Urban city type, with almost $40,000 in total fares and 68.4% (1625 total) of rides. There is definitely a high demand for PyBer business in the urban areas. With that said, there is also a high amount of drivers in Urban areas as well, with 59602 total drivers at 86.7% of the total driver count. With such a high amount of drivers, the average fare per driver is smallest amount, at $.67. Additionally, the average fare is the lowest of the three city types, coming in at $24.53 per fare. 
@@ -21,7 +21,7 @@ The rural ridership of PyBer is a lot smaller than the other two city types. Wit
 #### Total Fare by City Type
 The image below shows a clear view of the difference in total fares over the timeframe. The ridership seems to stay relatively consistent over the months with a minor spike around late February and a few throughout March and April. What is really shows is that the urban city type does the most in fares over the other two city types. 
 
-INSERT 538 IMAGE
+![Pyberfare_summary.png](https://github.com/melaniekelsey/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 
 ## Summary of Analysis
 In analyzing this data, I have three business recommendations for you.
